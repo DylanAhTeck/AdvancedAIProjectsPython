@@ -27,6 +27,6 @@ d) Filter stopwords
 
 ## Build
 
-'''bash
+```bash
 python program.py
-'''
+```
